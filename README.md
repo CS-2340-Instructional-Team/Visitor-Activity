@@ -14,7 +14,7 @@ Loyalty members get $0.50 off the entire sandwich if the total is over $5.00.
 
 | Type     | Name String      | Cost |
 | -------- | ---------------- | ---- |
-| Base Sub | "Sub with bread" | 3.00 |
+| Base Sub | "Sub with Bread" | 3.00 |
 | Turkey   | "Turkey"         | 1.50 |
 | Ham      | "Ham"            | 1.20 |
 | Cheese   | "Cheese"         | 0.75 |
