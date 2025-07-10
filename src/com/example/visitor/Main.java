@@ -6,6 +6,8 @@ public class Main {
         mySub.addComponent(new Turkey());
         mySub.addComponent(new Cheese());
         mySub.addComponent(new Lettuce());
+        mySub.addComponent(new Ham());
+        mySub.addComponent(new Tomato());
 
         System.out.println("Original Order: " + mySub.getName());
         System.out.println("Original Cost: $" + mySub.getCost());
